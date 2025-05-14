@@ -16,14 +16,14 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "Kyla Bot",
-    "PREFIX": "/",
+    "BOTNAME": "Keijo",
+    "PREFIX": ".",
     "ADMINBOT": [
-        "100063138152006"
+        "61565554550708"
          
     ],
     "NDH": [
-        "100063138152006"
+        "61565554550708"
     ],
     "DATABASE": {
         "sqlite": {
